@@ -1,3 +1,15 @@
+# Deck T Contracts
+**This will be the contracts that mint the NFT collections. They will however only be done after 'shuffling the deck'**
+
+## There are still a lot of things to iron out but the contracts won't be the revolutionary act here....yet
+
+- **Creators**: this will be more centered around creators in the beginning. I want them to have the tools to create games, collectable cards, and maybe even contracts with brand, ips
+- **Buyers**: Hopefully this protocol will be able to be housed on multiple platforms, negotiating splits I want volume not large percentages. I need my incentives aligned with the creators more than the buyers **in the early days
+- **Rarity-Built-in**: I will have an algorithm, open sourced that will be in the api. This will be the shuffle, ensuring there is a limited number of the more rare cards ensuring they retain their value, hoping buyers will keep their items for the long haul.
+- **Second Hand Trading**: This might be later in the game, but would like it up and running quickly so users who can't seem to get the whole deck can find a way to trade their way into their entire collection
+
+
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
@@ -13,54 +25,3 @@ Foundry consists of:
 
 https://book.getfoundry.sh/
 
-## Usage
-
-### Build
-
-```shell
-$ forge build
-```
-
-### Test
-
-```shell
-$ forge test
-```
-
-### Format
-
-```shell
-$ forge fmt
-```
-
-### Gas Snapshots
-
-```shell
-$ forge snapshot
-```
-
-### Anvil
-
-```shell
-$ anvil
-```
-
-### Deploy
-
-```shell
-$ forge script script/Counter.s.sol:CounterScript --rpc-url <your_rpc_url> --private-key <your_private_key>
-```
-
-### Cast
-
-```shell
-$ cast <subcommand>
-```
-
-### Help
-
-```shell
-$ forge --help
-$ anvil --help
-$ cast --help
-```
