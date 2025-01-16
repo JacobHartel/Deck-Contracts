@@ -25,3 +25,11 @@ Foundry consists of:
 
 https://book.getfoundry.sh/
 
+
+# To-Do's 
+
+- **Research**: Need to make sure I'm setting up the dynamic contracts correctly, research their interactions with IPFS
+- **Complete Minting Contract**: Want to get this done by the end of next week. After building websites for Louis 
+- **Research hosting for api/ipfs**: Need something fairly cheap but appreciated by the community (ETH/base...just for now to test out hypothesis)
+- **Find Artist to Create Opening Deck**: Looks like I may need to get into some card deck creator forums or reddit/instagram/facebook groups? we'll figure it out
+- **Start cold calling lesser known Manga creators**: Really need some reputable brands/ips to get this thing rolling. I know people have tried but "bet on it!"
